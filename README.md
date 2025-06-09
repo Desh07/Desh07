@@ -67,7 +67,7 @@
 ### 🔗 Connect with Me
 
 <p>
-  <a href="https://www.linkedin.com/in/your-linkedin-id" target="_blank">
+  <a href="https://www.linkedin.com/in/deshanth-vishvalingam-92a60a35b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:desh0sevn@gmail.com">
