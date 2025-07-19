@@ -7,9 +7,7 @@
 
 ---
 
-### 🧑‍💻 About Me
- 
-- 🌱 I’m learning **Cloud**, **AI**, **Cybersecurity**, and **Analytics**
+
 - 📫 Reach me at: `desh0sevn@gmail.com` 
 
 ---
