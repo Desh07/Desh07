@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Deshanth</h1>
+<h1 align="center">Hi 👋</h1>
 <p align="center">
   🎓 3rd Year | BIT(Hons) in Networking and Mobile Computing<br>
   💻 Aspiring Full Stack & Mobile App Developer<br>
