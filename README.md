@@ -1,22 +1,43 @@
-<h1 align="center">Hi 👋</h1>
+<h1 align="center">Hi there 👋</h1>
 <p align="center">
-  🎓 3rd Year | BIT(Hons) in Networking and Mobile Computing<br>
-  💻 Aspiring Full Stack & Mobile App Developer<br>
-  🚀 Passionate about building meaningful tech for real-life impact
+  🎓 Final-year undergraduate in Network and Mobile Computing
+  🔍 Aspiring Software Quality Assurance (SQA) Engineer
+  💡 Background in Web and Mobile Application Development
 </p>
 
 ---
 
+## 👨‍💻 About Me
+
+I am a final-year undergraduate transitioning into Software Quality Assurance, with a strong technical foundation in web and mobile application development.
+
+My development experience helps me understand application architecture, identify potential defects, and design effective test strategies. I am currently strengthening my knowledge in manual testing, API testing, and software testing methodologies.
 
 - 📫 Reach me at: `desh0sevn@gmail.com` 
 
 ---
 
+## 🧪 Software Quality Assurance Skills
+
+- Manual Testing
+- Test Case Design
+- Test Scenario Creation
+- Bug Reporting & Defect Tracking
+- Functional Testing
+- Exploratory Testing
+- Negative Testing
+- Boundary Value Analysis
+- Equivalence Partitioning
+- SDLC & STLC Understanding
+
 ### 🚀 Tech Stack
 
 **Languages & Tools**
 <p>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/XML-000000?style=for-the-badge&logo=xml&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white"/>
