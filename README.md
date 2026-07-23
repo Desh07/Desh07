@@ -258,7 +258,7 @@ https://linkedin.com/in/vishvalingam-deshanth
 
 🌐 **Portfolio**
 
-https://deshanth-vishvalingam.vercel.app
+[https://deshanth-vishvalingam.vercel.app](https://www.deshanth.dev/)
 
 🐙 **GitHub**
 
