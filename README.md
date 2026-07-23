@@ -250,7 +250,7 @@ where I can contribute to delivering reliable, secure, and high-quality software
 
 📧 **Email**
 
-deshanthvn@gmail.com
+deshanthv@gmail.com
 
 💼 **LinkedIn**
 
